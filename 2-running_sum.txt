@@ -1,0 +1,12 @@
+Creating a pseudocode where a user will enter numbers that will be added to the sum and when a negative number is encountered, stop adding numbers and write out the final result
+BEGIN
+Sum =0
+Prompt for number n
+OUTPUT("Input number1:")
+Read number n
+If (n<0)
+OUTPUT sum
+Else 
+Sum = sum + n
+END
+
