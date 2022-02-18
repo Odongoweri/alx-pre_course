@@ -1,0 +1,7 @@
+To calculate the sum of squares of a given number
+Prompt for number input
+Read number, n
+Set sum to 0;
+For (an integer i=1, and i<=n, increament i++)
+Sum = sum + (n*n)
+Print the total sum
